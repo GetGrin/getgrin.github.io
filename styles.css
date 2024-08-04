@@ -9540,7 +9540,10 @@ a:hover {
 
 .u-footer .u-text-1 {
   width: 417px;
-  margin: 49px auto;
+  margin-left: auto;
+  margin-top: 0px;
+  margin-right: auto;
+  margin-bottom: 30px;
 }
 
 @media (max-width: 1199px) {
@@ -9645,7 +9648,7 @@ footer a {
   line-height: 2.2;
   font-size: 1rem;
   font-weight: 700;
-  margin: 145px 0 0;
+  margin: 172px 0 0;
 }
 
 .u-section-1 .u-image-1 {
@@ -9689,7 +9692,7 @@ footer a {
 
   .u-section-1 .u-text-3 {
     width: auto;
-    margin-top: 58px;
+    margin-top: 146px;
     margin-left: 279px;
   }
 
@@ -9720,11 +9723,11 @@ footer a {
   }
 
   .u-section-1 .u-line-1 {
-    width: 269px;
+    width: 335px;
   }
 
   .u-section-1 .u-text-3 {
-    margin-top: 68px;
+    margin-top: 82px;
     margin-left: 35px;
   }
 
