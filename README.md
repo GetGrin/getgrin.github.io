@@ -1,2 +1,3 @@
 # getgrin.github.io
-Redirects to https://gri.mw
+> [!IMPORTANT]
+> Project moved to [https://gri.mw](https://gri.mw/code/WEB/gri.mw) (personal Forgejo instance)
